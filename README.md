@@ -2,8 +2,8 @@
 
 I'm Jakob, a web developer :globe_with_meridians: based in Karlsruhe, Germany :de:.
 
-My prefered languages to code in are:
-- C#
+My preferred languages to code in are:
+- C# 
 - Java :hotsprings:
 - TypeScript (Angular)
 
