@@ -9,4 +9,4 @@ My preferred languages to code in are:
 
 I'm a Linux user :penguin: and deploy using Docker :whale: and Kubernetes :wheel_of_dharma:.
 
-My hobbies: :computer: :musical_keyboard: :joystick: :bike: 
+My hobbies: :computer: :musical_keyboard: :joystick: :bike: :mountain_snow: :hiking_boot:
