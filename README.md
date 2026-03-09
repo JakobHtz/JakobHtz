@@ -1,6 +1,8 @@
 ### Hi there people 😁 
 
-I'm Jakob, a web developer :globe_with_meridians: based in Karlsruhe, Germany :de:.
+I'm Jakob, a developer based in Karlsruhe, Germany :de:.
+
+Working mostly with GIS technologies :globe_with_meridians:
 
 My preferred language to code in is C#
 
